@@ -1,5 +1,7 @@
 # wannier90-analysis
 
+[![CI](https://img.shields.io/github/actions/workflow/status/chatmaterials/wannier90-analysis/ci.yml?branch=main&label=CI)](https://github.com/chatmaterials/wannier90-analysis/actions/workflows/ci.yml) [![Release](https://img.shields.io/github/v/release/chatmaterials/wannier90-analysis?display_name=tag)](https://github.com/chatmaterials/wannier90-analysis/releases)
+
 Standalone skill for post-run Wannier90 result analysis and multi-run comparison.
 
 ## Install

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Wannier90 Analysis"
+  short_description: "Analyze and compare Wannier90 result directories"
+  brand_color: "#7C2D12"
+  default_prompt: "Use $wannier90-analysis to analyze or compare Wannier90 result directories."
